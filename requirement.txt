@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+jupyter
+notebook
+pyyaml
+scikit-learn
+scipy
+plotly
+openpyxl
+python-dateutil
+pyarrow
+pillow
