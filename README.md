@@ -173,5 +173,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Jothisram R**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jothisram-r-2877b728b/)
+- 🐙 [GitHub](https://github.com/jothisram)
